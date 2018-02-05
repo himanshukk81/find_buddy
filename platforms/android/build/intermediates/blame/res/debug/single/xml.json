@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/himanshu/Documents/Find_Buddy/find_buddy/platforms/android/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/Users/himanshu/Documents/Find_Buddy/find_buddy/platforms/android/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Users/himanshu/Documents/Find_Buddy/find_buddy/platforms/android/build/intermediates/res/merged/debug/xml/syncadapter.xml",
+        "source": "/Users/himanshu/Documents/Find_Buddy/find_buddy/platforms/android/res/xml/syncadapter.xml"
+    },
+    {
+        "merged": "/Users/himanshu/Documents/Find_Buddy/find_buddy/platforms/android/build/intermediates/res/merged/debug/xml/config.xml",
+        "source": "/Users/himanshu/Documents/Find_Buddy/find_buddy/platforms/android/res/xml/config.xml"
+    },
+    {
+        "merged": "/Users/himanshu/Documents/Find_Buddy/find_buddy/platforms/android/build/intermediates/res/merged/debug/xml/authenticator.xml",
+        "source": "/Users/himanshu/Documents/Find_Buddy/find_buddy/platforms/android/res/xml/authenticator.xml"
+    }
+]

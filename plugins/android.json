@@ -1,0 +1,70 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "com-badrit-base64": {
+      "PACKAGE_NAME": "com.rsdc.application"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.rsdc.application"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.rsdc.application"
+    },
+    "cordova-plugin-facebook4": {
+      "APP_ID": "719056864949598",
+      "APP_NAME": "RealTimeLocation",
+      "PACKAGE_NAME": "com.rsdc.application"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.rsdc.application"
+    },
+    "cordova-plugin-googlemaps": {
+      "API_KEY_FOR_ANDROID": "AIzaSyBAcTSmeUJorNPOl-9QtfxnGaxKbkXFSsQ",
+      "PACKAGE_NAME": "com.rsdc.application"
+    },
+    "cordova-plugin-ionic-webview": {
+      "PACKAGE_NAME": "com.rsdc.application"
+    },
+    "cordova-plugin-mauron85-background-geolocation": {
+      "GOOGLE_PLAY_SERVICES_VERSION": "+",
+      "ICON": "@mipmap/icon",
+      "SMALL_ICON": "@mipmap/icon",
+      "ACCOUNT_NAME": "@string/app_name",
+      "ACCOUNT_LABEL": "@string/app_name",
+      "ACCOUNT_TYPE": "$PACKAGE_NAME.account",
+      "CONTENT_AUTHORITY": "$PACKAGE_NAME",
+      "PACKAGE_NAME": "com.rsdc.application"
+    },
+    "cordova-plugin-nativestorage": {
+      "PACKAGE_NAME": "com.rsdc.application"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.rsdc.application"
+    },
+    "cordova-plugin-request-location-accuracy": {
+      "PACKAGE_NAME": "com.rsdc.application"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.rsdc.application"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.rsdc.application"
+    },
+    "cordova-plugin-x-toast": {
+      "PACKAGE_NAME": "com.rsdc.application"
+    },
+    "cordova.plugins.diagnostic": {
+      "PACKAGE_NAME": "com.rsdc.application"
+    },
+    "ionic-plugin-keyboard": {
+      "PACKAGE_NAME": "com.rsdc.application"
+    }
+  },
+  "dependent_plugins": {}
+}
